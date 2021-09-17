@@ -1,4 +1,5 @@
 # SQL_CRUD
+## `This repo uses REACT, EXPRESS JS, NODE and MY SQL for frontend, server routes, backend runtime and database respectively`
 
 # Getting Started with Create React App
 
