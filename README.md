@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 
-### `git clone https://github.com/chaluatmaa/dynamic-routing.git`
+### `git clone https://github.com/chaluatmaa/SQL_CRUD.git`
 
 ### `cd client`
 
