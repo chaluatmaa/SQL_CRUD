@@ -5,18 +5,13 @@ const mysql = require("mysql");
 const cors = require("cors");
 const { json } = require("body-parser");
 
-// MYSQL_HOST = findadoctor.c4poklxeoupi.us-east-1.rds.amazonaws.com
-//   MYSQL_USER = admin
-//   MYSQL_PASSWORD = cogniaim123
-//   MYSQL_DATABASE = test
-//   MYSQL_PORT = 3306
-//   MYSQL_UTC = utc
+// `Add your creentials here`
 
 const db = mysql.createPool({
-	host: "findadoctor.c4poklxeoupi.us-east-1.rds.amazonaws.com",
-	user: "admin",
-	password: "cogniaim123",
-	database: "test",
+	host: "",
+	user: "",
+	password: "",
+	database: "",
 });
 app.use(cors());
 app.use(express.json());
