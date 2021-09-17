@@ -5,7 +5,7 @@ const mysql = require("mysql");
 const cors = require("cors");
 const { json } = require("body-parser");
 
-// `Add your creentials here`
+// `Add your creentials here host, user, password, database respectively.`
 
 const db = mysql.createPool({
 	host: "",
