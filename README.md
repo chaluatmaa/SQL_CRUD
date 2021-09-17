@@ -29,5 +29,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser for client side and [http://localhost:5000](http://localhost:5000) for the server side
 
-The only thing you need to add is host, user, password and database.
+The only thing you need to add is host, user, password and database in your `index.js` file in server folder which I have removed.
 
